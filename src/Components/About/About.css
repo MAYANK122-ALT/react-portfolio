@@ -1,0 +1,40 @@
+.about{
+    margin: 115px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+}
+
+.about-left{
+    flex--basis: 40%;
+}
+
+.about-right{
+    flex-basis: 56%;
+    margin-left: 50px;
+    margin-top: -60px;
+}
+
+.about-img{
+    width: 100%;
+    border-radius: 10px;
+    margin: 10px;
+}  
+
+.skill-list ul{
+    margin-left: 53px;
+    margin-top: 10px;
+    columns: 2;   
+    gap: 3rem;
+}
+
+.skill-list ul li{
+    list-style: none;
+}
+
+.skill-list img{
+    width: 20px;
+    margin-right: 6px;
+    display: inline-block;
+}
