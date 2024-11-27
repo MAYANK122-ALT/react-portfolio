@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.3bf9d976.css",
+    "main.js": "/react-portfolio/static/js/main.24abd983.js",
+    "static/js/453.f4fbaa6d.chunk.js": "/react-portfolio/static/js/453.f4fbaa6d.chunk.js",
+    "static/media/college.png": "/react-portfolio/static/media/college.0a50a55b3c9516361214.png",
+    "static/media/netflix.png": "/react-portfolio/static/media/netflix.de887aa9ecf660465cbb.png",
+    "static/media/e-commerce.jpg": "/react-portfolio/static/media/e-commerce.ef1ebe85fa9f43f8afc9.jpg",
+    "static/media/conversa.png": "/react-portfolio/static/media/conversa.8a54695d2eba7d42d7ef.png",
+    "static/media/mail.png": "/react-portfolio/static/media/mail.47d24349ec5ffb4d411e.png",
+    "static/media/phone.png": "/react-portfolio/static/media/phone.f03dd71d8d130be1d5ef.png",
+    "static/media/person.jpg": "/react-portfolio/static/media/person.4e5d565fb74bacc99c7f.jpg",
+    "static/media/testing_4296532.png": "/react-portfolio/static/media/testing_4296532.976829c3430051bcfe51.png",
+    "static/media/web-design.png": "/react-portfolio/static/media/web-design.4c23c93b974994cea866.png",
+    "static/media/illustration.png": "/react-portfolio/static/media/illustration.7a1e1a3faab9d9f5a9ea.png",
+    "static/media/responsive-design.png": "/react-portfolio/static/media/responsive-design.8ecf24202e03a4e3e9fe.png",
+    "static/media/web-programming.png": "/react-portfolio/static/media/web-programming.c12c8bcfe71b7ff8e600.png",
+    "static/media/geometric-shape.png": "/react-portfolio/static/media/geometric-shape.be4b363d71ad043ca7f9.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.3bf9d976.css.map": "/react-portfolio/static/css/main.3bf9d976.css.map",
+    "main.24abd983.js.map": "/react-portfolio/static/js/main.24abd983.js.map",
+    "453.f4fbaa6d.chunk.js.map": "/react-portfolio/static/js/453.f4fbaa6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bf9d976.css",
+    "static/js/main.24abd983.js"
+  ]
+}
